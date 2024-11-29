@@ -1,5 +1,5 @@
 // Password corretta
-const CORRECT_PASSWORD = "12345"; // Cambia questa password con quella desiderata
+const CORRECT_PASSWORD = "CLITORIDI"; // Cambia questa password con quella desiderata
 
 document.getElementById('passwordForm').addEventListener('submit', function (e) {
     e.preventDefault(); // Evita il refresh della pagina
